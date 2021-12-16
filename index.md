@@ -4,7 +4,7 @@
 
 ### My Creative Works
 
-[Galaxy cat](/sample_page)
+[Galaxy cat](Galaxycat.jpg)
 <img src="Galaxycat.jpg"/>
 
 ---
