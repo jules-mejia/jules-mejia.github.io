@@ -5,27 +5,27 @@
 ### My Creative Works
 
 [Galaxy cat](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Galaxy cat.jpg"/>
 
 ---
 [Ripped effect](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Graffiti style.png"/>
 
 ---
 [Double Exposure](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Double Exposure Effect.jpg"/>
 
 ---
 [Earth day](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Earth Day Poster Project.jpg"/>
 
 ---
 [Cool Retro Collage](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="retro image.jpg"/>
 
 ---
 [3D Pop Out effect](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="man infront of car.jpg"/>
 
 ---
 
