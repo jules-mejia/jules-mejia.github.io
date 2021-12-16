@@ -2,17 +2,29 @@
 
 ---
 
-### Category Name 1 
+### My Creative Works
 
-[Project 1 Title](/sample_page)
+[Galaxy cat](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Ripped effect](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Double Exposure](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Earth day](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Cool Retro Collage](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[3D Pop Out effect](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
